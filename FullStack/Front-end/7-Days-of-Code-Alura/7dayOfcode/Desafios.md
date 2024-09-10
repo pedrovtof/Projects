@@ -29,10 +29,6 @@
     console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
   }
 ```
-### Resposta
-
-![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/4974b219-2697-4a92-9bb2-b681b87da8e0)
-
 
 ## Desafio 2 -->
 
@@ -60,13 +56,6 @@ E aí, dependendo da resposta, ele deve mostrar uma das seguintes mensagens:
 1 > Muito bom! Continue estudando e você terá muito sucesso.
 2 > Ahh que pena... Já tentou aprender outras linguagens?
 
-### Resposta
-
-![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/17b617a2-2846-48d3-847e-5af7ccf46d2a)
-
-
-
-![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/384819ad-64a4-4224-b7d6-b30b4577f9d6)
 
 
 ## Desafio 3 -->
@@ -85,13 +74,6 @@ O importante é que a pessoa que estiver jogando possa sempre escolher qual deci
 
 Além disso, também é essencial que, ao final do jogo, ela possa inserir quantas tecnologias quiser na lista de aprendizado.
 
-### Resposta
-
-![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/51bdbc00-2967-4a27-8703-9be327fb8931)
-
-![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/05adf372-aae9-4cd4-8b3b-cd07faae5db1)
-
-![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/d333faa4-0b5f-488e-ad89-7c7d55ac3f11)
 
 ## Desafio 4 -->
 
@@ -111,7 +93,6 @@ Depois que o programinha estiver funcionando, tente usar um número randômico e
 
 Bibliotecas readline e math
 
-![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/354b50f8-0f3c-41bf-9102-7053ebf1b4c7)
 
 ## Desafio 5 -->
 
@@ -136,11 +117,6 @@ Lista de compras:
   Congelados:
   Doces: chiclete e bala de ursinho
 ```
-### Resposta
-
-![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/fba2c96f-ff77-49a2-8695-27a9c852c07b)
-
-![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/8d1c0a42-247b-44d2-b113-5d514c5f2446)
 
 
 ## Desafio 6 -->
@@ -159,13 +135,6 @@ Por exemplo: “Não foi possível encontrar o item dentro da lista!”
 
 Lembre-se que a opção de remover um item só deverá estar disponível a partir do momento que existir ao menos um elemento dentro da lista de compras.
 
-### Resposta
-
-![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/aae1efa3-3c7d-4dd6-bdee-910bcca21ad6)
-
-![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/c10e067e-d1c9-411f-8101-65c560b03683)
-
-![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/8e163e98-32ba-4ca6-b71f-02a18d3f0d71)
 
 
 ## Desafio 7 -->
@@ -181,8 +150,4 @@ Primeiramente, a pessoa deverá escolher uma opção de operação impressa pelo
 Depois, ela deverá inserir os dois valores que deseja utilizar, e o programa imprimirá o resultado da operação em questão.
 
 As opções disponíveis deverão ser: soma, subtração, multiplicação, divisão, e sair. Nessa última, o programa deverá parar de ser executado, mostrando uma mensagem "Até a próxima".
-
-## Resposta
-
-![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/033cfc7d-d3ba-4acc-ad74-e3e535c4575b)
 
